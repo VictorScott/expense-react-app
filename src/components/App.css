@@ -1,0 +1,19 @@
+html {
+    font-family: sans-serif;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+
+.btn-margin-bottom{
+    margin-bottom: 10px !important;
+}
+
+.width100{
+    width: 100%;
+}
+
+.logo{
+    max-height: 36px;
+}
